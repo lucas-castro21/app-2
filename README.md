@@ -20,15 +20,38 @@ A mobile navigation project developed for the **Mobile Development I** course at
 2. **Icons (Cards):** List of styled cards with colored borders and press effects.
 3. **Forms:** Registration area with input validation and field reset logic.
 
-## ⚙️ Getting Started
+##⚙️ Getting Started
+Follow these steps to set up the project locally:
 
-1. Install dependencies:
-   ```bash
-   npm install
-2. Start the development server:
+1. Prerequisites
+Node.js (LTS version recommended).
 
+npm or yarn package manager.
+
+Expo Go app installed on your mobile device (to test physically).
+
+2. Installation
+ Clone the repository and install the necessary dependencies:
+
+Bash
+# Clone the repository
+git clone https://github.com/lucas-castro21/ucb-mobile-miau.git
+
+# Enter the project directory
+cd ucb-mobile-miau
+
+# Install dependencies
+npm install
+3. Running the App
+Start the Expo development server:
+
+Bash
 npx expo start
+4. Viewing the Project
+Once the server is running, you have three options to view the app:
 
-3. Press w to open in the browser or use the Expo Go app on your device.
+Mobile: Scan the QR Code displayed in your terminal using the Expo Go app.
 
-Developed by Lucas Castro | ADS Student at UCB.
+Web: Press w in the terminal to open the project in your browser.
+
+Emulator: Press a for Android or i for iOS simulators (requires Android Studio or Xcode).
