@@ -1,4 +1,4 @@
-# 🐱 Project Miau - Mobile Navigation Study
+# 🐱 Miau Project - Mobile Navigation Study
 
 A mobile navigation project developed for the **Mobile Development I** course at **Universidade Católica de Brasília (UCB)**. The goal was to perform reverse engineering on a default template, applying tab navigation concepts and advanced styling.
 
