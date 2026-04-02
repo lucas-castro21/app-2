@@ -10,7 +10,7 @@ A mobile navigation project developed for the **Mobile Development I** course at
 - **State Management:** Functional form that auto-clears inputs after submission using `useState`.
 
 ## 🛠️ Tech Stack
-- [React Native](https://reactnative.dev/) (Expo SDK 54)
+- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Expo Router](https://docs.expo.dev/router/introduction/)
 - [MaterialCommunityIcons](https://icons.expo.fyi/)
