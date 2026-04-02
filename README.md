@@ -1,50 +1,34 @@
-# Welcome to your Expo app 👋
+# 🐱 Project Miau - Mobile Navigation Study
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A mobile navigation project developed for the **Mobile Development I** course at **Universidade Católica de Brasília (UCB)**. The goal was to perform reverse engineering on a default template, applying tab navigation concepts and advanced styling.
 
-## Get started
+## 🚀 Key Features
+- **Modern Dark/Neon UI:** Custom color palette inspired by high-performance systems.
+- **TypeScript:** Fully typed codebase for industry-standard reliability.
+- **Expo Router:** File-based routing utilizing the `(tabs)` directory structure.
+- **Interactive Elements:** Styled cards with visual touch feedback using `TouchableOpacity`.
+- **State Management:** Functional form that auto-clears inputs after submission using `useState`.
 
-1. Install dependencies
+## 🛠️ Tech Stack
+- [React Native](https://reactnative.dev/) (Expo SDK 54)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Expo Router](https://docs.expo.dev/router/introduction/)
+- [MaterialCommunityIcons](https://icons.expo.fyi/)
 
+## 📱 Screens
+1. **Miau (Home):** Welcome screen featuring a centralized icon and call-to-action button.
+2. **Icons (Cards):** List of styled cards with colored borders and press effects.
+3. **Forms:** Registration area with input validation and field reset logic.
+
+## ⚙️ Getting Started
+
+1. Install dependencies:
    ```bash
    npm install
-   ```
+2. Start the development server:
 
-2. Start the app
+npx expo start
 
-   ```bash
-   npx expo start
-   ```
+3. Press w to open in the browser or use the Expo Go app on your device.
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Developed by Lucas Castro | ADS Student at UCB.
